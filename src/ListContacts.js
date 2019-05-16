@@ -14,7 +14,7 @@ function ListContacts(props) {
                         <p>{contact.name}</p>
                         <p>{contact.handle}</p>
                     </div>
-                    <button className='contact-remove'>
+                    <button className='contact-removal'>
                         Remove!
                     </button>
                 </li>
